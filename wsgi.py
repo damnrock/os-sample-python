@@ -7,3 +7,4 @@ def hello():
 
 if __name__ == "__main__":
     application.run()
+print('This works, too')
